@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer | SaaS & AI Solutions Builder
 --------------------------------------------------
 
-Results-driven Full Stack Developer with 2.5+ years of hands-on experience designing, developing, and deploying scalable web applications. Strong expertise across the full software development lifecycle, from system architecture to production deployment. Proven ability to build secure, high-performance SaaS platforms and integrate third-party services like payments and AI/ML systems. Passionate about clean architecture, performance optimization, and continuous learning.
+Results-driven Full Stack Developer with hands-on experience designing, developing, and deploying scalable web applications. Strong expertise across the full software development lifecycle, from system architecture to production deployment. Proven ability to build secure, high-performance SaaS platforms and integrate third-party services like payments and AI/ML systems. Passionate about clean architecture, performance optimization, and continuous learning.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [umairsiddique381@gmail.com](mailto:umairsiddique381@gmail.com)
